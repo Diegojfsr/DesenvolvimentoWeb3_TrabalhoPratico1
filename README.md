@@ -8,14 +8,14 @@ Utilizar JavaScript para desenvolver o trabalho abaixo.
 
 1. Para esse trabalho iremos utilizar HTML + CSS + JavaScript.
 2. Utilizar a seguinte API: [https://api.chucknorris.io/](https://api.chucknorris.io/), <br>
-<em>essa API permite apresentar fatos humorísticos a respeito do Chuck Norris.</em>
+<em>(essa API permite apresentar fatos humorísticos a respeito do Chuck Norris)</em>
 3. Apresentar os fatos através das seguintes categorias:<br>
 a. Aleatório <br>
 b. Com base em uma categoria <br>
 c. Através de uma busca textual <br>
 
 <p>
-  O seu site deve permitir que o usuário tenha acesso através de qualquer um dos três
+  O site deve permitir que o usuário tenha acesso através de qualquer um dos três
  caminhos, ou seja, se ele quiser pode pedir uma curiosidade aleatória, ou baseandose em uma categoria, ou através de uma busca textual.<br>
  Rotas da API: <br>
  Apresenta uma curiosidade aleatória: <br>
