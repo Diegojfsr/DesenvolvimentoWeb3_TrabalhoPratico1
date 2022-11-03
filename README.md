@@ -38,19 +38,23 @@ c. Através de uma busca textual <br>
 <li> Etapa III - <a href=" https:// "> Acessar </a></li>
 </ul>
 
-<h2 dir="auto"> 📖 Anotações </h2>
+
 
 <h2 dir="auto"> 🔗 Links Úteis </h2>
 <ul dir="auto">
-<li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html"> LabelEncoder </a></li>
-<li><a href="https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html"> StandardScaler </a></li>
-
+  <li><a href="https://blog.kritikapattalam.com/random-quotes-from-chuck-norris-api"> Exibir cotações aleatórias </a></li>
+  <li><a href="https://medium.com/swlh/creating-a-chuck-norris-random-facts-application-in-html5-101ba2a7f628"> Criando um aplicativo de fatos aleatórios </a></li>
+  <li><a href="https://th3n3rd.medium.com/consuming-chuck-norris-api-from-reactjs-f6b395c80a8f"> Consumindo a API Chuck Norris </a></li>
+  <li><a href="https://stackoverflow.com/questions/59898649/fetch-based-on-if-stetement"> Busca com base em if stetement</a></li>
+  <li><a href="https://stackoverflow.com/questions/66709493/fetching-data-from-an-api-console-repeats"> Buscando dados de uma API </a></li>
+  <li><a href="https://github.com/TheVishnuKumar/chuck-norris-in-salesforce"> huck Norris: Componente Web do Lightning </a></li>
+  <li><a href="https://github.com/mrjatinchauhan/chuck-norris-jokes"> Piada de Chuck Norris </a></li>
 </ul>
 
 <h2 dir="auto"> 📺 Videos Úteis </h2>
 <ul dir="auto">
-<li><a href="https://www.youtube.com/watch?v=ZPTAeXfaZ4g"> Codificando Variáveis Categóricas para Machine Learning </a></li>
-<li><a href="https://www.youtube.com/watch?v=RWaMw02_MQQ"> APRENDA QUANDO USAR "LabelEncoder" ou "One-Hot Encoder" </a></li>
+<li><a href="https://www.youtube.com/watch?v=qkOjT8D_Y5Q"> React fetch API / Chuck Norris API - Part 1 </a></li>
+<li><a href="https://www.youtube.com/watch?v=OinmKcdJaWo&t=25s"> Fetch a Chuck Norris API in JavaScript in 7 Minutes | API Basics" </a></li>
 
 </ul>
 
