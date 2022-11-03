@@ -18,7 +18,8 @@ c. Através de uma busca textual <br>
   O site deve permitir que o usuário tenha acesso através de qualquer um dos três
  caminhos, ou seja, se ele quiser pode pedir uma curiosidade aleatória, 
  ou baseandose em uma categoria, ou através de uma busca textual.<br>
- <h5>Rotas da API:</h5> <br>
+  
+<h3>Rotas da API:</h3> 
  Apresenta uma curiosidade aleatória: <br>
  [https://api.chucknorris.io/jokes/random](https://api.chucknorris.io/jokes/random)
 
