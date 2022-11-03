@@ -7,8 +7,8 @@
 Utilizar JavaScript para desenvolver o trabalho abaixo.
 
 1. Para esse trabalho iremos utilizar HTML + CSS + JavaScript.
-2. Utilizar a seguinte API: [https://api.chucknorris.io/](https://api.chucknorris.io/), essa API permite
-apresentar fatos humorísticos a respeito do Chuck Norris.
+2. Utilizar a seguinte API: [https://api.chucknorris.io/](https://api.chucknorris.io/), 
+<em>essa API permite apresentar fatos humorísticos a respeito do Chuck Norris.</em>
 3. Apresentar os fatos através das seguintes categorias:<br>
 a. Aleatório <br>
 b. Com base em uma categoria <br>
