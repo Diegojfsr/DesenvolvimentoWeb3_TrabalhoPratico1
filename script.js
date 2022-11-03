@@ -2,12 +2,26 @@ const generateFrase = function() {
     let url;
     let category =  document.getElementById("category").value;
  
+    if(category !== "palavra") {
+        //buscaPalavra.html
+      }
+
+    if(category !== "all") {
+        url ="https://api.chucknorris.io/jokes/random?category=" + category;
+    } else {
+        url ="https://api.chucknorris.io/jokes/random";
+    }
+
+
+/*
     if(category !== "all") {
       url ="https://api.chucknorris.io/jokes/random?category=" + category;
     } else {
          url ="https://api.chucknorris.io/jokes/random";
     }
- 
+*/
+
+
     fetch(url)
     .then(function(response) {
         return response.json(); 
@@ -25,11 +39,16 @@ const generateFrase = function() {
     // document.getElementById("icon").src = this.data.icon_url;
         document.getElementById("Frase").innerHTML = this.data.value;
     }).catch(function() {
-        console.log("error");
+    console.log("error");
     });
  
- }
+}
+
+
  window.onload = function() {
      generateFrase();
      document.getElementById("generate").addEventListener('click', generateFrase);
  }
+
+
+
